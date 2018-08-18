@@ -1,10 +1,11 @@
 const Koa = require('koa')
 const app = new Koa()
-
+const { common } = require('./tpl')
 //npm install koa -S --registry=https://registry.npm.taobao.org
 
 app.use(async (ctx,next) => {
-    ctx.body = '电影首页'
+    ctx.type = 'text/html; charset=utf-8'
+    ctx.body = common
 })
 
 app.listen(3000,() => {
