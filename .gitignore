@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs
+npm-debut.log
+
+# gererate
+dist
+
+# System
+.DS_Store
+
+# Build
+build

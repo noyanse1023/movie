@@ -1,0 +1,26 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "koa2",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noyanse1023/movie.git"
+  },
+  "keywords": [
+    "movie-trailer"
+  ],
+  "author": "noyanse1023",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noyanse1023/movie/issues"
+  },
+  "homepage": "https://github.com/noyanse1023/movie#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
