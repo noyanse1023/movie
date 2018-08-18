@@ -2,7 +2,7 @@ module.exports = `
     <!DOCYTYPE html>
     <html>
         <head>
-            <meta charset="utf-t">
+            <meta charset="utf-8">
             <meta name="viewport" content="width=device-width,initial-scale=1">
             <title>Koa Server HTML</title>
             <link href="https://cdn.bootcss.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet">

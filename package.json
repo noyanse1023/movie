@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/noyanse1023/movie#readme",
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "koa-views": "^6.1.4"
   }
 }
